@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Naufal Arhab**.\
+Perkenalkan nama saya **Naufal Arhab**.
 
 Saya seorang **Mahasiswa** di Universitas Sultan Ageng Tirtayasa prodi Teknik Informatika.
 
