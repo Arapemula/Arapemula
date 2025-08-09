@@ -1,5 +1,4 @@
 <!-- =======================  PERSONALIZE THIS FIRST  =======================
-Ganti sesuai profilmu jika perlu:
 - USERNAME = Arapemula
 - NAME = Naufal Arhab
 - EMAIL = naufalarhab8@gmail.com
@@ -11,7 +10,7 @@ Ganti sesuai profilmu jika perlu:
 <!-- Top animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Naufal%20Arhab&fontSize=46&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Informatics%20Student%20•%20Full-stack%20Learner%20•%20IoT%20Curious&descSize=14&descAlignY=55" width="100%" />
 
-<!-- Typing intro (do NOT wrap this whole block in a code fence inside README) -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -20,7 +19,7 @@ Ganti sesuai profilmu jika perlu:
   </a>
 </div>
 
-<!-- Quick badges -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arapemula&style=for-the-badge&label=Visitors" alt="views"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge" />
@@ -55,23 +54,9 @@ Ganti sesuai profilmu jika perlu:
 
 ---
 
-## 🧪 Proyek Aktif
-> Progress bar ala markdown biar kelihatan “denyut” pengembangan
-
-**Satu Desa** — civic-tech untuk layanan desa  
-`Backend (Laravel)` ▰▰▰▰▰▰▱▱▱▱ 60%  
-`Frontend (Next.js)` ▰▰▰▰▱▱▱▱▱▱ 40%  
-`Realtime & Notifikasi` ▰▰▱▱▱▱▱▱▱▱ 20%
-
-**News Miner** — ETL + NLP untuk berita lokal  
-`ETL Pipeline` ▰▰▰▰▰▰▰▱▱▱ 70%  
-`Sentiment/Topic` ▰▰▰▱▱▱▱▱▱▱ 30%
-
----
-
 ## 📌 Sorotan Repo
 <p align="center">
-  <!-- Ganti repo sesuai milikmu -->
+
   <a href="https://github.com/Arapemula/Darifirebase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=Darifirebase&theme=tokyonight" />
   </a>
@@ -94,32 +79,16 @@ Ganti sesuai profilmu jika perlu:
   <img src="https://github-profile-trophy.vercel.app/?username=Arapemula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
-<!-- Optional: activity graph (rate-limit tergantung traffic) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arapemula&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Fun Bits
-- 💡 Favorite stack cepat: **Laravel + Inertia + Tailwind** / **Next.js + Prisma**
-- 🐧 Belajar DevOps: Dockerizing Laravel + Nginx + MySQL
-- 🔭 Ingin eksplor: **LLM kecil** untuk Bahasa Indonesia (opsi on-device)
-
-<details>
-<summary>📚 Tips Belajar Favorit</summary>
-
-1. Bangun proyek kecil tapi selesai — *shipping beats perfection*.  
-2. Tulis catatan publik (Gist/wiki) biar gampang diingat & dibagikan.  
-3. Automate yang berulang: script, Makefile, atau GitHub Actions.
-</details>
-
----
-
 ## 📫 Kontak & Jejak
 <p align="center">
-  <a href="mailto:naufalarhab8@gmail.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/naufalarhab"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:naufalarhab2@gmail.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/naufal-arhab-92b75724b"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Arapemula"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
