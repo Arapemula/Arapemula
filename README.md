@@ -1,43 +1,125 @@
-<h1 align="center">👋 Halo, Saya Naufal Arhab!</h1>
+<!-- =======================  PERSONALIZE THIS FIRST  ======================= 
+Ganti nilai berikut sesuai profilmu:
+- USERNAME = Arapemula
+- NAME = Naufal Arhab
+- EMAIL = naufalarhab8@gmail.com
+- LINKEDIN = naufalarhab
+- CITY = Banten, ID
+- MAIN_STACK = Laravel • Next.js • Python
+- PROJECT_REPOS = Darifirebase, Satu-Desa (ganti jika perlu)
+======================================================================== -->
 
+<!-- Top animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Naufal%20Arhab&fontSize=46&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Informatics%20Student%20•%20Full-stack%20Learner%20•%20IoT%20Curious&descSize=14&descAlignY=55" width="100%" />
+
+<!-- Typing intro -->
 <p align="center">
-  🎓 Mahasiswa <b>Teknik Informatika</b> di <b>Universitas Sultan Ageng Tirtayasa</b><br>
-  🚀 Bersemangat untuk belajar, berinovasi, dan berkembang!
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&center=true&vCenter=true&random=false&width=700&lines=Halo%2C+saya+Naufal+Arhab+👋;Mahasiswa+Teknik+Informatika+%7C+Universitas+Sultan+Ageng+Tirtayasa;Belajar+%26+bangun+produk+berdampak+%F0%9F%9A%80;Open+for+collaboration+%26+internship+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Quick badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arapemula&style=for-the-badge&label=Visitors" alt="views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Banten%2C%20ID-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MBTI-ENTJ--A-f43f5e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lang-ID%20%7C%20EN-8b5cf6?style=for-the-badge" />
 </p>
 
 ---
 
-## 💡 Tentang Saya
-- 🌱 **Sedang belajar:** Pemrograman Web, IoT, dan Machine Learning
-- 🛠 **Teknologi favorit:** PHP (Laravel), JavaScript (Next.js), Python
-- 💬 **Bisa diajak diskusi:** Teknologi terbaru, ide proyek kreatif, dan tips belajar efisien
-- 🎯 **Tujuan:** Menjadi software engineer yang mampu memberikan dampak positif
+## ✨ Tentang Saya
+- 🎓 Mahasiswa **Teknik Informatika** — **Universitas Sultan Ageng Tirtayasa**
+- 🚀 Fokus saat ini: **{{ MAIN_STACK }}**
+- 🧩 Minat: Data Mining, IoT, Web Apps, dan civic-tech (layanan desa, partisipasi warga)
+- 📈 Mindset: *“Masih muda, jadi gaspol belajar & berkembang.”*
+- 🤝 Terbuka untuk kolaborasi, magang, dan proyek freelance
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nextjs,react,python,java,tailwind,mysql,postgres,sqlite,docker,nginx,git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 🗺️ Roadmap 2025 (Singkat)
+- [ ] Deploy **App Layanan Desa** (auth, chat warga, anggaran & berita, emergency call)  
+- [ ] Rilis **ML Sentiment YouTube** (model + dashboard web)  
+- [ ] **IoT mini-project** (sensor + dashboard realtime)  
+- [ ] Tulis 3 artikel teknis (Medium/Blog)  
+
+---
+
+## 🧪 Proyek Aktif
+> Progress bar ala markdown biar kelihatan “denyut” pengembangan ☺️
+
+**Satu Desa** — civic-tech untuk layanan desa  
+`Backend (Laravel)` ▰▰▰▰▰▰▱▱▱▱ 60%  
+`Frontend (Next.js)` ▰▰▰▰▱▱▱▱▱▱ 40%  
+`Realtime & Notifikasi` ▰▰▱▱▱▱▱▱▱▱ 20%
+
+**News Miner** — ETL + NLP untuk berita lokal  
+`ETL Pipeline` ▰▰▰▰▰▰▰▱▱▱ 70%  
+`Sentiment/Topic` ▰▰▰▱▱▱▱▱▱▱ 30%
+
+---
+
+## 📌 Sorotan Repo
+<p align="center">
+  <!-- Ganti repo sesuai milikmu -->
+  <a href="https://github.com/Arapemula/Darifirebase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=Darifirebase&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Arapemula/Satu-Desa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=Satu-Desa&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arapemula&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arapemula&layout=compact&theme=tokyonight" height="150" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arapemula&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arapemula&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 📫 Kontak
 <p align="center">
-  <a href="mailto:naufalarhab8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/naufalarhab"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Arapemula"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img height="180" src="https://streak-stats.demolab.com?user=Arapemula&theme=tokyonight&hide_border=false" />
+</p>
+
+<!-- Optional: activity graph (kadang rate-limited) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arapemula&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-> _"Dikarenakan masih muda, saya siap untuk terus berkembang dan belajar hal-hal baru."_  
-> — **Naufal Arhab**
+## 🧩 Fun Bits
+- 💡 Favorite stack cepat: **Laravel + Inertia + Tailwind** / **Next.js + Prisma**
+- 🐧 Belajar DevOps: Dockerizing Laravel + Nginx + MySQL
+- 🔭 Ingin eksplor: **LLM kecil** untuk bahasa Indonesia (opsi on-device)
+
+<details>
+<summary>📚 Tips Belajar Favorit</summary>
+
+1. Bangun proyek kecil tapi selesai — *shipping beats perfection*.  
+2. Tulis catatan publik (Gist/wiki) biar gampang diingat & dibagikan.  
+3. Automate yang berulang: script, Makefile, atau GitHub Actions.
+</details>
+
+---
+
+## 📫 Kontak & Jejak
+<p align="center">
+  <a href="mailto:naufalarhab8@gmail.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/naufalarhab"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Arapemula"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" width="100%" />
