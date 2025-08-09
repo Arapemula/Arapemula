@@ -1,23 +1,24 @@
-<!-- =======================  PERSONALIZE THIS FIRST  ======================= 
-Ganti nilai berikut sesuai profilmu:
+<!-- =======================  PERSONALIZE THIS FIRST  =======================
+Ganti sesuai profilmu jika perlu:
 - USERNAME = Arapemula
 - NAME = Naufal Arhab
 - EMAIL = naufalarhab8@gmail.com
 - LINKEDIN = naufalarhab
-- CITY = Banten, ID
+- LOCATION = Banten, ID
 - MAIN_STACK = Laravel • Next.js • Python
-- PROJECT_REPOS = Darifirebase, Satu-Desa (ganti jika perlu)
-======================================================================== -->
+============================================================================ -->
 
 <!-- Top animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Naufal%20Arhab&fontSize=46&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Informatics%20Student%20•%20Full-stack%20Learner%20•%20IoT%20Curious&descSize=14&descAlignY=55" width="100%" />
 
-<!-- Typing intro -->
-<p align="center">
+<!-- Typing intro (do NOT wrap this whole block in a code fence inside README) -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&center=true&vCenter=true&random=false&width=700&lines=Halo%2C+saya+Naufal+Arhab+👋;Mahasiswa+Teknik+Informatika+%7C+Universitas+Sultan+Ageng+Tirtayasa;Belajar+%26+bangun+produk+berdampak+%F0%9F%9A%80;Open+for+collaboration+%26+internship+%F0%9F%91%8B" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&repeat=true&width=780&lines=Halo%2C+saya+Naufal+Arhab+%F0%9F%91%8B;Mahasiswa+Teknik+Informatika+%7C+Universitas+Sultan+Ageng+Tirtayasa;Belajar+%26+membangun+produk+berdampak+%F0%9F%9A%80;Open+for+collaboration+%26+internship&v=2" 
+      alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <!-- Quick badges -->
 <p align="center">
@@ -32,7 +33,7 @@ Ganti nilai berikut sesuai profilmu:
 
 ## ✨ Tentang Saya
 - 🎓 Mahasiswa **Teknik Informatika** — **Universitas Sultan Ageng Tirtayasa**
-- 🚀 Fokus saat ini: **{{ MAIN_STACK }}**
+- 🚀 Fokus saat ini: **Laravel • Next.js • Python**
 - 🧩 Minat: Data Mining, IoT, Web Apps, dan civic-tech (layanan desa, partisipasi warga)
 - 📈 Mindset: *“Masih muda, jadi gaspol belajar & berkembang.”*
 - 🤝 Terbuka untuk kolaborasi, magang, dan proyek freelance
@@ -46,7 +47,7 @@ Ganti nilai berikut sesuai profilmu:
 
 ---
 
-## 🗺️ Roadmap 2025 (Singkat)
+## 🗺️ Roadmap 2025
 - [ ] Deploy **App Layanan Desa** (auth, chat warga, anggaran & berita, emergency call)  
 - [ ] Rilis **ML Sentiment YouTube** (model + dashboard web)  
 - [ ] **IoT mini-project** (sensor + dashboard realtime)  
@@ -55,7 +56,7 @@ Ganti nilai berikut sesuai profilmu:
 ---
 
 ## 🧪 Proyek Aktif
-> Progress bar ala markdown biar kelihatan “denyut” pengembangan ☺️
+> Progress bar ala markdown biar kelihatan “denyut” pengembangan
 
 **Satu Desa** — civic-tech untuk layanan desa  
 `Backend (Laravel)` ▰▰▰▰▰▰▱▱▱▱ 60%  
@@ -89,8 +90,11 @@ Ganti nilai berikut sesuai profilmu:
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=Arapemula&theme=tokyonight&hide_border=false" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arapemula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
-<!-- Optional: activity graph (kadang rate-limited) -->
+<!-- Optional: activity graph (rate-limit tergantung traffic) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arapemula&theme=tokyo-night&hide_border=true" />
 </p>
@@ -100,7 +104,7 @@ Ganti nilai berikut sesuai profilmu:
 ## 🧩 Fun Bits
 - 💡 Favorite stack cepat: **Laravel + Inertia + Tailwind** / **Next.js + Prisma**
 - 🐧 Belajar DevOps: Dockerizing Laravel + Nginx + MySQL
-- 🔭 Ingin eksplor: **LLM kecil** untuk bahasa Indonesia (opsi on-device)
+- 🔭 Ingin eksplor: **LLM kecil** untuk Bahasa Indonesia (opsi on-device)
 
 <details>
 <summary>📚 Tips Belajar Favorit</summary>
