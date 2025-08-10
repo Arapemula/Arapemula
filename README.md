@@ -33,7 +33,7 @@
 ## ✨ Tentang Saya
 - 🎓 Mahasiswa **Teknik Informatika** — **Universitas Sultan Ageng Tirtayasa**
 - 🚀 Fokus saat ini: **Laravel • Next.js • Python**
-- 🧩 Minat: Data Mining, IoT, Web Apps, dan civic-tech (layanan desa, partisipasi warga)
+- 🧩 Minat: Data Mining, IoT, Web Apps, dan UI/UX
 - 📈 Mindset: *“Masih muda, jadi gaspol belajar & berkembang.”*
 - 🤝 Terbuka untuk kolaborasi, magang, dan proyek freelance
 
