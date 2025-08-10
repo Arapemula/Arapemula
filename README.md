@@ -57,11 +57,11 @@
 ## 📌 Sorotan Repo
 <p align="center">
 
-  <a href="https://github.com/Arapemula/Darifirebase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=Darifirebase&theme=tokyonight" />
+  <a href="https://github.com/Arapemula/autobotV2/tree/code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=autobotV2&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Arapemula/Satu-Desa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=Satu-Desa&theme=tokyonight" />
+  <a href="https://github.com/Arapemula/chatbot-telegram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=chatbot-telegram&theme=tokyonight" />
   </a>
 </p>
 
