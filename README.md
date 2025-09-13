@@ -47,10 +47,10 @@
 ---
 
 ## 🗺️ Roadmap 2025
-- [ ] Deploy **App Layanan Desa** (auth, chat warga, anggaran & berita, emergency call)  
-- [ ] Rilis **ML Sentiment YouTube** (model + dashboard web)  
-- [ ] **IoT mini-project** (sensor + dashboard realtime)  
-- [ ] Tulis 3 artikel teknis (Medium/Blog)  
+- [x] Membuat **BOT TRADING**  
+- [x] Membuat **Bot sinyal crypto** 
+- [ ] Membuat **analisa sentimen komentar Youtube**
+- [ ] Membuat **Script hacking dasar** 
 
 ---
 
