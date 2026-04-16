@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=Arapemula&style=for-the-badge&label=Visitors" alt="views"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Banten%2C%20ID-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MBTI-ENTJ--A-f43f5e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MBTI-ENFJ--A-f43f5e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lang-ID%20%7C%20EN-8b5cf6?style=for-the-badge" />
 </p>
 
