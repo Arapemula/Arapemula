@@ -16,7 +16,7 @@
   <tr>
     <td width="30%" align="center">
       <!-- Generated cartoon avatar (Hoodie Dev vibe) -->
-      <img src="https://api.dicebear.com/8.x/avataaars/svg?seed=Naufal&backgroundColor=0078D4&clothing=hoodie&clothingColor=black&eyebrows=default&eyes=squint&mouth=smile&top=shortHair" alt="Naufal Cartoon Avatar" width="200" />
+      <img src="https://api.multiavatar.com/Naufal.svg" width="200" />
     </td>
     <td width="70%" valign="middle">
       <div align="left">
