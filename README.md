@@ -51,9 +51,9 @@ I bring a unique hybrid perspective to software engineering, blending a deep und
 ### 📊 Performance Metrics
 
 <div align="center">
-  <!-- STATS CARDS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Arapemula&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arapemula&theme=tokyonight&hide_border=true&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
+  <!-- STATS CARDS FIXED -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Arapemula&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arapemula&theme=tokyonight&hide_border=true&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="195" alt="GitHub Streak" />
 </div>
 
 <br>
