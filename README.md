@@ -1,98 +1,68 @@
 <!-- 
 ===========================================================================
-STALK ME SECTION (Hidden in Comment)
-- NAME = Naufal Arhab
-- EMAIL = naufalarhab8@gmail.com
-- LINKEDIN = naufalarhab
-- STACK = Laravel • Next.js • Python • UI/UX
+- NAME = Naufal Arhab (Arapemula)
+- ROLE = Informatics Student | SaaS Architect | UI/UX
+- STACK = Laravel • Next.js • Python • Flutter
 ============================================================================ 
 -->
 
-<!-- HEADER ANIMASI PREMIUM - TYPE: NEON / VENOM -->
+<!-- HEADER ANIMASI CYBER-WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Naufal%20Arhab&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Informatics%20Student%20•%20Full-stack%20Developer%20•%20UI/UX%20Designer&descSize=20&descAlignY=55&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F81CE5,100:0078D4&height=280&section=header&text=Naufal%20Arhab&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Informatics%20Student%20•%20Full-stack%20Dev%20•%20UI/UX&descSize=22&descAlignY=55&stroke=ffffff&strokeWidth=1" width="100%" />
 </p>
 
-<!-- TYPING EFFECT DENGAN FONT CYBERPUNK -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F81CE5&center=true&vCenter=true&width=900&lines=./initialize_saas_protocol...;[STATUS]+Building+Future+Interfaces;[INFO]+Laravel+%26+Next.js+Architect;[CMD]+Optimizing+Crypto+Trading+Bots;>>+Iterate_until_perfect.exe" alt="Typing SVG" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arapemula&style=for-the-badge&color=0078D4&label=SYSTEM+ACCESS" alt="views"/>
-  <img src="https://img.shields.io/badge/Status-Hiring_Open-34D399?style=for-the-badge&logo=github" />
-</p>
-
----
-
-# 🔗 Terminal://About_Me
-
+<!-- CARTOON AVATAR & TYPING EFFECT -->
 <table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Core Protocols (Current)
-- 📡 Scaling **WhatsApp Gateway SaaS** core architecture.
-- 📉 Refining **Crypto Trading Algorithms** & Real-time signals.
-- 🧠 Deep diving into **Web3 Architecture** & API automation.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Developer Mindset
-- 🟢 Dedicated to **User-Centric Design (UI/UX)**.
-- 🟣 Believer in **Clean Code** & **TDD** patterns.
-- 🚀 *Mindset:* "Build, Break, Fix, Scale."
-
-</td>
-</tr>
+  <tr>
+    <td width="30%" align="center">
+      <!-- Generated cartoon avatar (Hoodie Dev vibe) -->
+      <img src="https://api.dicebear.com/8.x/avataaars/svg?seed=Naufal&backgroundColor=0078D4&clothing=hoodie&clothingColor=black&eyebrows=default&eyes=squint&mouth=smile&top=shortHair" alt="Naufal Cartoon Avatar" width="200" />
+    </td>
+    <td width="70%" valign="middle">
+      <div align="left">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F81CE5&vCenter=true&width=600&lines=./launch_cyberdev_protocol...;[MODE]+SaaS+Experiences+%F0%9F%92%BB;[STACK]+Laravel+%26+Next.js+%F0%9F%9A%80;[CMD]+Crypto+Trading+Bots+%F0%9F%93%88;>>+UNTIRTA_Informatics+%F0%9F%8E%93" alt="Typing SVG" />
+        </a>
+      </div>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=Arapemula&style=for-the-badge&color=0078D4&label=SYSTEM+ACCESS" alt="views"/>
+        <img src="https://img.shields.io/badge/Status-HIRING_OPEN-34D399?style=for-the-badge&logo=github&logoColor=black" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 🛠️ Technomancy_Arsenal
+# 🛰️ Technomancy Arsenal (Skill Tree)
 
-<!-- SKILLICONS.DEV - ICON BERGERAK SAAT HOVER (DI SUPPORT OS CERTAIN) -->
+<!-- SKILLICONS.DEV - ICON BERGERAK PAS HOVER (Premium Arrangement) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,laravel,php,python,nodejs,mysql,postgres,docker,figma,framer,git,vscode,postman,vercel,nginx&perline=9" />
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,ts,php,python,flutter,nodejs&perline=9" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,figma,framer,nginx,vscode&perline=9" />
   </a>
 </p>
 
 ---
 
-# 📊 System_Analytics
+# 📊 System Analytics (Gamified Stats)
 
 <p align="center">
-  <!-- GITHUB README STATS PREMIUM - THEME: RADAR -->
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Arapemula&show_icons=true&theme=radar&title_color=F81CE5&icon_color=0078D4&text_color=ffffff&bg_color=0D1117&hide_border=false&border_color=ffffff&rank_icon=github&include_all_commits=true" />
+  <!-- GITHUB README STATS - THEME: RADAR (FUTURISTIC) -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arapemula&show_icons=true&theme=radar&title_color=F81CE5&icon_color=0078D4&text_color=ffffff&bg_color=0D1117&hide_border=false&border_color=ffffff&rank_icon=github&include_all_commits=true" />
   <!-- GITHUB STREAK STATS - THEME: RADAR -->
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Arapemula&theme=radar&hide_border=false&border_color=ffffff&background=0D1117&sideNums=ffffff&sideLabels=ffffff&stroke=0078D4&ring=F81CE5" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arapemula&theme=radar&hide_border=false&border_color=ffffff&background=0D1117&sideNums=ffffff&sideLabels=ffffff&stroke=0078D4&ring=F81CE5" />
 </p>
 
 <p align="center">
-  <!-- CONTRIBUTIONS GRAPH ANIMATED (Need setup Workflow) -->
+  <!-- THE SNAKE - ULTIMATE CARTOON ANIMATION (Required Setup Workflow) -->
   <img src="https://raw.githubusercontent.com/Arapemula/Arapemula/output/github-contribution-grid-snake-dark.svg" alt="Rogue Snake Animation" width="100%" />
 </p>
 
 ---
 
-# 📌 Pinned_Modules
-
-<p align="center">
-  <a href="https://github.com/Arapemula/autobotV2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=autobotV2&theme=radar&title_color=F81CE5&text_color=ffffff&bg_color=0D1117&border_color=ffffff&show_owner=true" />
-  </a>
-  <a href="https://github.com/Arapemula/chatbot-telegram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arapemula&repo=chatbot-telegram&theme=radar&title_color=0078D4&text_color=ffffff&bg_color=0D1117&border_color=ffffff&show_owner=true" />
-  </a>
-</p>
-
----
-
-# 🤝 Establish_Connection
+# 🤝 Establish Connection
 
 <p align="center">
   <a href="mailto:naufalarhab8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -102,5 +72,5 @@ STALK ME SECTION (Hidden in Comment)
 
 <!-- FOOTER ANIMASI - WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F81CE5,100:0078D4&height=80&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F81CE5,100:0078D4&height=60&section=footer&animation=fadeIn" width="100%" />
 </p>
